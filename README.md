@@ -77,7 +77,8 @@ venv\Scripts\activate         # Windows
 pip install -r requirement.txt
 
 # 4. Run the application
-python app.py
+python app.py                  # Or from dropdown run current file
+
 ```
 
 Then open **http://127.0.0.1:8050** in your browser.
